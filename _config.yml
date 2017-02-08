@@ -26,12 +26,7 @@ app:
 # Marketing
 #
 marketing_header: Does Awesome Stuff # Optional
-marketing_desc: FieldBrowser for Ingress check to Intel Map very quickly and easily.
-
-When you start the app, it will display the Intel Map of the area around the current position without operation. You can choose a measure of Intel map of startup from 5 levels in the setting button.In addition, it displays the periphery of the current position again in the middle button.
-Also , it was now able to bookmark the specified location !
-
-After you check the nearby portal, you can quickly start the Ingress from the bottom right button.
+marketing_desc: FieldBrowser for Ingress check to Intel Map very quickly and easily.When you start the app, it will display the Intel Map of the area around the current position without operation. You can choose a measure of Intel map of startup from 5 levels in the setting button.In addition, it displays the periphery of the current position again in the middle button.Also , it was now able to bookmark the specified location ! After you check the nearby portal, you can quickly start the Ingress from the bottom right button.
 
 Enjoy more Ingress using FieldBrowser!
 
